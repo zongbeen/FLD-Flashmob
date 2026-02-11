@@ -6,7 +6,7 @@ flashmob/
 ├── index.html      # 메인 HTML 파일
 ├── style.css       # 스타일 시트
 ├── script.js       # JavaScript 파일
-├── flashmob.mp4    # 재생 영상 파일
+├── FLDflashmob.mp4    # 재생 영상 파일
 └── README.md       # 이 파일
 ```
 
